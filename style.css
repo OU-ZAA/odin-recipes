@@ -1,0 +1,31 @@
+.heading {
+    background-color: #7fffd4;
+    text-align: center;
+    font-size: 36px;
+}
+#links {
+    background-color: #ffff00;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+.small-heading {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 28px;
+}
+.description {
+    color: #0000ff;
+    font-weight: 700;
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
+.ingredients li {
+    color: #ff0000;
+    font-size: 18px;
+}
+.steps li {
+    color: aqua;
+    font-size: 18px;
+}
